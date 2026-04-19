@@ -25,22 +25,22 @@
 
 <sub><i>🚧 = work in progress · ✅ = shipped</i></sub>
 
-- 🛠️ **[skila](https://github.com/luyao618/skila)** 🚧 - Skill lifecycle manager for AI agents — discover & generate new skills from your work, evolve existing ones, and manage them all in one place
-- 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent built for my baby — advisor for new parents, and steward of the family's growing trove of data, photos, and videos
-- 🧠 **[hermes-omx](https://github.com/luyao618/hermes-omx)** 🚧 - Bring Oh My Codex to your Hermes agent — turning Hermes into your M1, the manager that orchestrates the rest
+- 🛠️ **[skila](https://github.com/luyao618/skila)** 🚧 - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
+- 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
+- 🧠 **[hermes-omx](https://github.com/luyao618/hermes-omx)** 🚧 - Bring Oh My Codex to Hermes — turning it into your M1, the manager that orchestrates the rest
 - 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** ✅ - OpenClaw House — a pixel-art character that embodies OpenClaw's state
-- 🚽 **[vibe-coding-while-shit](https://github.com/luyao618/vibe-coding-while-shit)** ✅ - You can vibe-code while doing your business
-- 🗣️ **[claude-code-voice-buddy](https://github.com/luyao618/Claude-Code-Voice-Buddy)** ✅ - Make your Claude Code talk back to you
+- 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** ✅ - Make Claude Code talk to you — and voice-call you back when it needs you
+- 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** ✅ - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
 
 ### 📚 Source Code Studies
 
-- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - A source-study project with ⭐ 1.2k+ stars — learning from one of the best agent implementations out there
-- 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already helped me become a Hermes Agent contributor 😎
+- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.2k+ — learning from one of the best agent implementations out there
+- 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
 
 ### 🎮 AI Games
 
-- 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** ✅ - Web-based Zha Jin Hua (Three-Card Poker) where you face off against five different LLM-powered opponents
-- 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** ✅ - Use an LLM to generate your Breakout game maps — or upload a photo of someone you can't stand and smash it to pieces
+- 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** ✅ - Web Zha Jin Hua (Three-Card Poker) against five different LLM-powered opponents
+- 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** ✅ - LLM-generated Breakout maps — or upload a photo of someone you can't stand and smash it
 
 ## Open Source Contributions
 
@@ -50,9 +50,3 @@
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luyao618)
 [![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/LuisHome)
-
----
-
-> "Try to be AI native."
-
----
