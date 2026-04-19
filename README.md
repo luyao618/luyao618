@@ -19,11 +19,7 @@
 >
 > Now, I am re-tooling for the age of Large Language Models. My philosophy is simple: Hard work is the ultimate equalizer. I am committed to deep learning and continuous adaptation, because in the AI race, the only way to fail is to stop moving.
 
-## Recent Projects
-
-### ⚙️ Productivity Tools
-
-<sub><i>🚧 = work in progress · ✅ = shipped</i></sub>
+## ⚙️ Productivity Tools
 
 - 🛠️ **[skila](https://github.com/luyao618/skila)** 🚧 - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
 - 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
@@ -32,12 +28,12 @@
 - 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** ✅ - Make Claude Code talk to you — and voice-call you back when it needs you
 - 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** ✅ - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
 
-### 📚 Source Code Studies
+## 📚 Source Code Studies
 
 - 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.2k+ — learning from one of the best agent implementations out there
 - 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
 
-### 🎮 AI Games
+## 🎮 AI Games
 
 - 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** ✅ - Web Zha Jin Hua (Three-Card Poker) against five different LLM-powered opponents
 - 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** ✅ - LLM-generated Breakout maps — or upload a photo of someone you can't stand and smash it
