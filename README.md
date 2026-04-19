@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Yao 👋
 
-<!--
-**luyao618/luyao618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Suzhou** | 💼 **Senior Software Engineer @ Microsoft**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Big Data Veteran | AI-Native Transitioner | Lifelong Builder**
+>
+> Ten years of engineering excellence: I've built the plumbing (Collection & ETL), the foundations (Warehousing & Cluster Ops), and the lenses (Business Data Analytics) that transform raw data into actionable intelligence.
+>
+> Now, I am re-tooling for the age of Large Language Models. My philosophy is simple: Hard work is the ultimate equalizer. I am committed to deep learning and continuous adaptation, because in the AI race, the only way to fail is to stop moving.
+
+## Recent Projects
+
+### ⚙️ Productivity Tools
+
+<sub><i>🚧 = work in progress · ✅ = shipped</i></sub>
+
+- 🛠️ **[skila](https://github.com/luyao618/skila)** 🚧 - Skill lifecycle manager for AI agents — discover & generate new skills from your work, evolve existing ones, and manage them all in one place
+- 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent built for my baby — advisor for new parents, and steward of the family's growing trove of data, photos, and videos
+- 🧠 **[hermes-omx](https://github.com/luyao618/hermes-omx)** 🚧 - Bring Oh My Codex to your Hermes agent — turning Hermes into your M1, the manager that orchestrates the rest
+- 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** ✅ - OpenClaw House — a pixel-art character that embodies OpenClaw's state
+- 🚽 **[vibe-coding-while-shit](https://github.com/luyao618/vibe-coding-while-shit)** ✅ - You can vibe-code while doing your business
+- 🗣️ **[claude-code-voice-buddy](https://github.com/luyao618/Claude-Code-Voice-Buddy)** ✅ - Make your Claude Code talk back to you
+
+### 📚 Source Code Studies
+
+- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - A source-study project with ⭐ 1.2k+ stars — learning from one of the best agent implementations out there
+- 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already helped me become a Hermes Agent contributor 😎
+
+### 🎮 AI Games
+
+- 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** ✅ - Web-based Zha Jin Hua (Three-Card Poker) where you face off against five different LLM-powered opponents
+- 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** ✅ - Use an LLM to generate your Breakout game maps — or upload a photo of someone you can't stand and smash it to pieces
+
+## Open Source Contributions
+
+- 🤖 **[hermes-agent](https://github.com/luyao618/hermes-agent)** - The agent that grows with you
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luyao618)
+[![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/LuisHome)
+
+---
+
+> "Try to be AI native."
+
+---
