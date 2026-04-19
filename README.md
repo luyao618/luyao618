@@ -17,7 +17,7 @@
 >
 > Ten years of engineering excellence: I've built the plumbing (Collection & ETL), the foundations (Warehousing & Cluster Ops), and the lenses (Business Data Analytics) that transform raw data into actionable intelligence.
 >
-> Now, I am re-tooling for the age of Large Language Models. My philosophy is simple: Hard work is the ultimate equalizer. I am committed to deep learning and continuous adaptation, because in the AI race, the only way to fail is to stop moving.
+> Now, I am re-tooling for the age of Large Language Models. My philosophy is simple: Hard work is the ultimate equalizer. I am committed to deep learning and continuous adaptation.
 
 ## ⚙️ Productivity Tools
 
