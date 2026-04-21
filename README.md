@@ -23,7 +23,6 @@
 
 - 🛠️ **[skila](https://github.com/luyao618/skila)** 🚧 - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
 - 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
-- 🧠 **[hermes-omx](https://github.com/luyao618/hermes-omx)** 🚧 - Bring Oh My Codex to Hermes — turning it into your M1, the manager that orchestrates the rest
 - 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** ✅ - OpenClaw House — a pixel-art character that embodies OpenClaw's state
 - 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** ✅ - Make Claude Code talk to you — and voice-call you back when it needs you
 - 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** ✅ - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
