@@ -22,10 +22,10 @@
 ## ⚙️ Productivity Tools
 
 - 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
-- 🛠️ **[skila](https://github.com/luyao618/skila)** ✅ - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
-- 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** ✅ - OpenClaw House — a pixel-art character that embodies OpenClaw's state
-- 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** ✅ - Make Claude Code talk to you — and voice-call you back when it needs you
-- 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** ✅ - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
+- 🛠️ **[skila](https://github.com/luyao618/skila)** - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
+- 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** - OpenClaw House — a pixel-art character that embodies OpenClaw's state
+- 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** - Make Claude Code talk to you — and voice-call you back when it needs you
+- 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
 
 ## 📚 Source Code Studies
 
@@ -34,8 +34,8 @@
 
 ## 🎮 AI Games
 
-- 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** ✅ - Web Zha Jin Hua (Three-Card Poker) against five different LLM-powered opponents
-- 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** ✅ - LLM-generated Breakout maps — or upload a photo of someone you can't stand and smash it
+- 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** - Web Zha Jin Hua (Three-Card Poker) against five different LLM-powered opponents
+- 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** - LLM-generated Breakout maps — or upload a photo of someone you can't stand and smash it
 
 ## Open Source Contributions
 
