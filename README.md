@@ -39,8 +39,8 @@
 
 ## 🤝 Contributor To
 
-- 🤖 **[hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 115k — The agent that grows with you
-- 🐾 **[openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 364k — Oh-my-claudecode plugin ecosystem
+- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 115k — The agent that grows with you
+- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 364k — Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 
 ## Connect
 
