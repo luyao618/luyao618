@@ -37,7 +37,7 @@
 - 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** - Web Zha Jin Hua (Three-Card Poker) against five different LLM-powered opponents
 - 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** - LLM-generated Breakout maps — or upload a photo of someone you can't stand and smash it
 
-## Open Source Contributions
+## 🤝 Contributor To
 
 - 🤖 **[hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 115k — The agent that grows with you
 - 🐾 **[openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 364k — Oh-my-claudecode plugin ecosystem
