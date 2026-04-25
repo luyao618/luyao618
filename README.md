@@ -39,7 +39,8 @@
 
 ## Open Source Contributions
 
-- 🤖 **[hermes-agent](https://github.com/luyao618/hermes-agent)** - The agent that grows with you
+- 🤖 **[hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 115k — The agent that grows with you
+- 🐾 **[openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 364k — Oh-my-claudecode plugin ecosystem
 
 ## Connect
 
