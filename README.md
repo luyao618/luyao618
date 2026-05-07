@@ -21,7 +21,7 @@
 
 ## ⚙️ Productivity Tools
 
-- 🦌 **[fawn](https://github.com/luyao618/fawn)** 🚧 - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
+- 🦌 **[fawn](https://github.com/luyao618/fawn)** - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
 - 🛠️ **[skila](https://github.com/luyao618/skila)** - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
 - 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** - OpenClaw House — a pixel-art character that embodies OpenClaw's state
 - 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** - Make Claude Code talk to you — and voice-call you back when it needs you
@@ -29,7 +29,7 @@
 
 ## 📚 Source Code Studies
 
-- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.2k+ — learning from one of the best agent implementations out there
+- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.3k+ — learning from one of the best agent implementations out there
 - 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
 
 ## 🎮 AI Games
@@ -40,7 +40,7 @@
 ## 🤝 Contributor To
 
 - 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 367k — Contributed 6 commits to GitHub's most starred AI assistant
-- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 128k — Contributed 11 commits to the fastest-growing AI agent
+- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 128k — Contributed 12 commits to the fastest-growing AI agent
 
 ## Connect
 
