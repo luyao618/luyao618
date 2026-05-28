@@ -29,7 +29,7 @@
 
 ## 📚 Source Code Studies
 
-- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.3k+ — learning from one of the best agent implementations out there
+- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.5k+ — learning from one of the best agent implementations out there
 - 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
 
 ## 🎮 AI Games
@@ -39,8 +39,8 @@
 
 ## 🤝 Contributor To
 
-- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 367k — Contributed 6 commits to GitHub's most starred AI assistant
-- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 128k — Contributed 12 commits to the fastest-growing AI agent
+- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 375k — Contributed 8 commits to GitHub's most starred AI assistant
+- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 171k — Contributed 15 commits to the fastest-growing AI agent
 
 ## Connect
 
