@@ -25,10 +25,11 @@
 - 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** - Make Claude Code talk to you — and voice-call you back when it needs you
 - 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
 
-## 📚 Source Code Studies
+## 📚 Studies Project
 
-- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.5k+ — learning from one of the best agent implementations out there
+- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.6k+ — learning from one of the best agent implementations out there
 - 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
+- 📚 **[Agent-Interview-CheatSheet](https://github.com/luyao618/Agent-Interview-CheatSheet)** - A cheat sheet for AI agent interviews — distilled notes and patterns worth knowing
 
 ## 🎮 AI Games
 
@@ -37,8 +38,8 @@
 
 ## 🤝 Contributor To
 
-- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 378k — Contributed 8 commits to GitHub's most starred AI assistant
-- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 187k — Contributed 15 commits to the fastest-growing AI agent
+- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 381k — Contributed 8 commits to GitHub's most starred AI assistant
+- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 201k — Contributed 15 commits to the fastest-growing AI agent
 
 ## Connect
 
