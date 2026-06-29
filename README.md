@@ -28,7 +28,7 @@
 ## 📚 Studies Project
 
 - 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** - ⭐ 1.6k+ — learning from one of the best agent implementations out there
-- 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
+- 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor
 - 📚 **[Agent-Interview-CheatSheet](https://github.com/luyao618/Agent-Interview-CheatSheet)** - A cheat sheet for AI agent interviews — distilled notes and patterns worth knowing
 
 ## 🎮 AI Games
