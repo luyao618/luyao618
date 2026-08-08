@@ -1,4 +1,4 @@
-# Hi, I'm Lu Yao 👋
+# Hi, This is Yao 👋
 
 📍 **Suzhou** | 💼 **Senior Software Engineer @ Microsoft**
 
