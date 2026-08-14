@@ -38,7 +38,7 @@
 
 ## 🤝 Contributor To
 
-- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 381k — Contributed 8 commits to GitHub's most starred AI assistant
+- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** - ⭐ 386k — Contributed 8 commits to GitHub's most starred AI assistant
 - 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** - ⭐ 201k — Contributed 15 commits to the fastest-growing AI agent
 
 ## Connect
