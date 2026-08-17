@@ -1,4 +1,4 @@
-# Hi, This is Yao 👋
+# Hello, This is Yao 👋
 
 📍 **Suzhou** | 💼 **Senior Software Engineer @ Microsoft**
 
