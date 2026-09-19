@@ -19,6 +19,7 @@
 
 ## ⚙️ Productivity Tools
 
+- 🎙️ **[scriber](https://github.com/luyao618/scriber)** - A Mac menu bar audio and screen recorder — save recordings locally for playback, sharing, or your AI agents
 - 🦌 **[fawn](https://github.com/luyao618/fawn)** - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
 - 🛠️ **[skila](https://github.com/luyao618/skila)** - Skill lifecycle manager for AI agents — discover, evolve, and organize skills in one place
 - 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** - OpenClaw House — a pixel-art character that embodies OpenClaw's state
