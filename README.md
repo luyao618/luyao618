@@ -21,7 +21,6 @@
 - **[scriber](https://github.com/luyao618/scriber)** - Record audio and screen from the Mac menu bar. Keep the files local.
 - **[fawn](https://github.com/luyao618/fawn)** - An agent for my baby: parenting advice and a home for family photos and videos.
 - **[skila](https://github.com/luyao618/skila)** - Turn Claude Code sessions into skills you can edit, version, and reuse.
-- **[CSV Dashboard Generator](https://github.com/luyao618/dashboard-gen-skill)** - Turn CSV files into interactive HTML dashboards with charts and filters.
 - **[watch-claw](https://github.com/luyao618/watch-claw)** - A pixel-art companion that shows what OpenClaw is doing.
 - **[voice-buddy](https://github.com/luyao618/voice-buddy)** - Give Claude Code a voice, with a call back when it needs you.
 - **[code-while-shit](https://github.com/luyao618/code-while-shit)** - Vibe-code from the bathroom: control Claude Code, Codex, or OpenCode from chat.
