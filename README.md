@@ -18,45 +18,24 @@
 
 ## ⚙️ Productivity Tools
 
-- **[scriber](https://github.com/luyao618/scriber)**<br>
-  Record audio and screen from the Mac menu bar. Keep the files local.
-
-- **[fawn](https://github.com/luyao618/fawn)**<br>
-  An agent for my baby: parenting advice and a home for family photos and videos.
-
-- **[skila](https://github.com/luyao618/skila)**<br>
-  Turn Claude Code sessions into skills you can edit, version, and reuse.
-
-- **[CSV Dashboard Generator](https://github.com/luyao618/dashboard-gen-skill)**<br>
-  Turn CSV files into interactive HTML dashboards with charts and filters.
-
-- **[watch-claw](https://github.com/luyao618/watch-claw)**<br>
-  A pixel-art companion that shows what OpenClaw is doing.
-
-- **[voice-buddy](https://github.com/luyao618/voice-buddy)**<br>
-  Give Claude Code a voice, with a call back when it needs you.
-
-- **[code-while-shit](https://github.com/luyao618/code-while-shit)**<br>
-  Vibe-code from the bathroom: control Claude Code, Codex, or OpenCode from chat.
+- **[scriber](https://github.com/luyao618/scriber)** - Record audio and screen from the Mac menu bar. Keep the files local.
+- **[fawn](https://github.com/luyao618/fawn)** - An agent for my baby: parenting advice and a home for family photos and videos.
+- **[skila](https://github.com/luyao618/skila)** - Turn Claude Code sessions into skills you can edit, version, and reuse.
+- **[CSV Dashboard Generator](https://github.com/luyao618/dashboard-gen-skill)** - Turn CSV files into interactive HTML dashboards with charts and filters.
+- **[watch-claw](https://github.com/luyao618/watch-claw)** - A pixel-art companion that shows what OpenClaw is doing.
+- **[voice-buddy](https://github.com/luyao618/voice-buddy)** - Give Claude Code a voice, with a call back when it needs you.
+- **[code-while-shit](https://github.com/luyao618/code-while-shit)** - Vibe-code from the bathroom: control Claude Code, Codex, or OpenCode from chat.
 
 ## 📚 Study Projects
 
-- **[Claude Code Source Study](https://github.com/luyao618/Claude-Code-Source-Study)** · 1.7k stars<br>
-  Notes on how Claude Code's agent works, from reading the source.
-
-- **[Hermes Source Study](https://github.com/luyao618/Hermes-Source-Code-Study)**<br>
-  A source-code deep dive that made me a Hermes contributor.
-
-- **[AI 题典](https://github.com/luyao618/Agent-Interview-CheatSheet)** · [Try it online →](https://luyao.blog/ai-interview/)<br>
-  AI interview practice for developers and PMs, with reference answers and personal notes.
+- **[Claude Code Source Study](https://github.com/luyao618/Claude-Code-Source-Study)** · 1.7k stars - Notes on how Claude Code's agent works, from reading the source.
+- **[Hermes Source Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A source-code deep dive that made me a Hermes contributor.
+- **[AI 题典](https://github.com/luyao618/Agent-Interview-CheatSheet)** - AI interview practice for developers and PMs, with reference answers and personal notes. [Try it online →](https://luyao.blog/ai-interview/)
 
 ## 🎮 AI Games
 
-- **[golden-flower](https://github.com/luyao618/golden-flower)**<br>
-  Three-card poker against up to five AI opponents, each powered by a different LLM.
-
-- **[breakout-maker](https://github.com/luyao618/breakout-maker)**<br>
-  Play Breakout with AI-generated maps, or turn a photo into bricks and smash it.
+- **[golden-flower](https://github.com/luyao618/golden-flower)** - Three-card poker against up to five AI opponents, each powered by a different LLM.
+- **[breakout-maker](https://github.com/luyao618/breakout-maker)** - Play Breakout with AI-generated maps, or turn a photo into bricks and smash it.
 
 ## 🤝 Contributor To
 
