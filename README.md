@@ -18,29 +18,50 @@
 
 ## ⚙️ Productivity Tools
 
-- 🎙️ **[scriber](https://github.com/luyao618/scriber)** - A Mac menu bar audio and screen recorder — save recordings locally for playback, sharing, or your AI agents
-- 🦌 **[fawn](https://github.com/luyao618/fawn)** - An agent for my baby — new-parent advisor and steward of family data, photos, and videos
-- 🛠️ **[skila](https://github.com/luyao618/skila)** - Turn Claude Code sessions into reusable skills, then edit, version, and refine them in a web control panel
-- 📊 **[dashboard-gen-skill](https://github.com/luyao618/dashboard-gen-skill)** - An agent skill for turning CSV files into interactive HTML dashboards with filters, charts, and data checks
-- 🐾 **[watch-claw](https://github.com/luyao618/watch-claw)** - OpenClaw House — a pixel-art character that embodies OpenClaw's state
-- 🗣️ **[voice-buddy](https://github.com/luyao618/voice-buddy)** - Make Claude Code talk to you — and voice-call you back when it needs you
-- 🚽 **[code-while-shit](https://github.com/luyao618/code-while-shit)** - Vibe-code while doing your business — remote-control Claude Code / Codex / OpenCode from chat
+- **[scriber](https://github.com/luyao618/scriber)**<br>
+  Record audio and screen from the Mac menu bar. Keep the files local.
+
+- **[fawn](https://github.com/luyao618/fawn)**<br>
+  An agent for my baby: parenting advice and a home for family photos and videos.
+
+- **[skila](https://github.com/luyao618/skila)**<br>
+  Turn Claude Code sessions into skills you can edit, version, and reuse.
+
+- **[CSV Dashboard Generator](https://github.com/luyao618/dashboard-gen-skill)**<br>
+  Turn CSV files into interactive HTML dashboards with charts and filters.
+
+- **[watch-claw](https://github.com/luyao618/watch-claw)**<br>
+  A pixel-art companion that shows what OpenClaw is doing.
+
+- **[voice-buddy](https://github.com/luyao618/voice-buddy)**<br>
+  Give Claude Code a voice, with a call back when it needs you.
+
+- **[code-while-shit](https://github.com/luyao618/code-while-shit)**<br>
+  Vibe-code from the bathroom: control Claude Code, Codex, or OpenCode from chat.
 
 ## 📚 Study Projects
 
-- 📚 **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** [![GitHub stars](https://img.shields.io/github/stars/luyao618/Claude-Code-Source-Study?style=flat-square&label=stars)](https://github.com/luyao618/Claude-Code-Source-Study/stargazers) - Notes from reading Claude Code's source and studying how its agent works
-- 📚 **[Hermes-Source-Code-Study](https://github.com/luyao618/Hermes-Source-Code-Study)** - A deep read of the Hermes Agent source — already made me a Hermes contributor 😎
-- 📚 **[AI 题典 / Agent-Interview-CheatSheet](https://github.com/luyao618/Agent-Interview-CheatSheet)** - AI interview practice for developers and PMs: write your answer, compare it with a reference, and keep your notes. [Try it online →](https://luyao.blog/ai-interview/)
+- **[Claude Code Source Study](https://github.com/luyao618/Claude-Code-Source-Study)** · 1.7k stars<br>
+  Notes on how Claude Code's agent works, from reading the source.
+
+- **[Hermes Source Study](https://github.com/luyao618/Hermes-Source-Code-Study)**<br>
+  A source-code deep dive that made me a Hermes contributor.
+
+- **[AI 题典](https://github.com/luyao618/Agent-Interview-CheatSheet)** · [Try it online →](https://luyao.blog/ai-interview/)<br>
+  AI interview practice for developers and PMs, with reference answers and personal notes.
 
 ## 🎮 AI Games
 
-- 🌸 **[golden-flower](https://github.com/luyao618/golden-flower)** - Web Zha Jin Hua (Three-Card Poker) against five different LLM-powered opponents
-- 🧱 **[breakout-maker](https://github.com/luyao618/breakout-maker)** - LLM-generated Breakout maps — or upload a photo of someone you can't stand and smash it
+- **[golden-flower](https://github.com/luyao618/golden-flower)**<br>
+  Three-card poker against up to five AI opponents, each powered by a different LLM.
+
+- **[breakout-maker](https://github.com/luyao618/breakout-maker)**<br>
+  Play Breakout with AI-generated maps, or turn a photo into bricks and smash it.
 
 ## 🤝 Contributor To
 
-- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw/commits/main/?author=luyao618)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=stars)](https://github.com/openclaw/openclaw/stargazers) - Contributed 8 commits
-- 🤖 **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618)** [![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=stars)](https://github.com/NousResearch/hermes-agent/stargazers) - Contributed 15 commits
+- **[OpenClaw](https://github.com/openclaw/openclaw)** · [8 commits](https://github.com/openclaw/openclaw/commits/main/?author=luyao618) · 390k stars
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** · [15 commits](https://github.com/NousResearch/hermes-agent/commits/main/?author=luyao618) · 248k stars
 
 ## Connect
 
